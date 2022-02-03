@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  claybody: MyString
+  glaze: MyString
+  type: 
+
+two:
+  claybody: MyString
+  glaze: MyString
+  type: 
